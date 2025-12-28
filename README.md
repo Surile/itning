@@ -1,10 +1,12 @@
-### Hi there 👋 Welcome to my GitHub! [![Hits](https://hitcount.itning.top?u=itning&r=itning)](https://github.com/itning/hit-count)
+### Hi there 👋 Welcome to my GitHub! [![Hits](https://hitcount.itning.com?u=itning&r=itning)](https://github.com/itning/hit-count)
+
+![](https://raw.githubusercontent.com/itning/itning/output/github-snake.svg)
 
 <a href="https://github.com/itning?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itning" />
+  <img align="left" src="https://github-readme-stats.itning.com/api?username=itning" />
 </a>
 <a href="https://github.com/itning?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itning" />
+  <img align="left" src="https://github-readme-stats.itning.com/api/top-langs/?username=itning" />
 </a>
 
 <!--
